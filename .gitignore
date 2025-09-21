@@ -2,3 +2,5 @@ env/
 .env
 images/
 musics/
+frames/ 
+test_video.mp4 
